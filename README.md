@@ -31,3 +31,5 @@ Detailed Movie Information: Users can access in-depth details about each movie.
 Responsive Design: Ensures optimal viewing across various devices, including desktops, tablets, and smartphones. GitHub
 
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/d1f66d2f-22a1-4696-bad9-22710f6b810f)
